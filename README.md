@@ -18,8 +18,9 @@ Machine learning project classifying penguin species using morphological feature
 ## Key Results
 
 - **Best Model:** Logistic Regression
-- **Accuracy:** 99.04%
-- **F1-Score:** 0.9918
+- **Accuracy:** 100%
+- **F1-Score:** 1.0000
+- **Dataset:** 342 samples (after removing samples with all features missing)
 
 ## Preprocessing
 
